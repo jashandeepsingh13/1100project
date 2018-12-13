@@ -1,0 +1,226 @@
+else 
+			{ cout << " Please contact us for other specifications\n";  }
+        	cout <<" Press 1 to checkout | 2 to go back\n";
+			cin >> choice4;
+			 if (choice3 == 1)
+			  { 
+			      if(compchoice1 == 1)
+			      { cout<<"Price is $1800\n";}
+			      else if(compchoice1 == 2)
+			      { cout<<"Price is $2700\n";}
+			      else if(compchoice1 == 3)
+			      { cout<<"Price is $3750\n";}
+			      else if(compchoice1 == 4)
+			      { cout<<"Price is $1600\n";}
+			      else if(compchoice1 == 5)
+			      { cout<<"Price is $4780\n";}
+			      else if(compchoice1 == 6)
+			      { cout<<"Price is $5900\n";}
+			      else if(compchoice1 == 7)
+			      { cout<<"Price is $2850\n";}
+			      else if(compchoice1 == 8)
+			      { cout<<"Price is $2999\n";}
+			      else if(compchoice1 == 9)
+			      { cout<<"Price is $1950\n";}
+			      else{cout <<"Price is $3820\n";}
+			  }
+			  else if(choice3 == 2 )
+			  {if(compchoice1 == 1)
+			      { cout<<"Price is $3800\n";}
+			      else if(compchoice1 == 2)
+			      { cout<<"Price is $2700\n";}
+			      else if(compchoice1 == 3)
+			      { cout<<"Price is $1750\n";}
+			      else if(compchoice1 == 4)
+			      { cout<<"Price is $5600\n";}
+			      else if(compchoice1 == 5)
+			      { cout<<"Price is $4780\n";}
+			      else if(compchoice1 == 6)
+			      { cout<<"Price is $2900\n";}
+			      else if(compchoice1 == 7)
+			      { cout<<"Price is $4850\n";}
+			      else if(compchoice1 == 8)
+			      { cout<<"Price is $999\n";}
+			      else if(compchoice1 == 9)
+			      { cout<<"Price is $1950\n";}
+			      else{cout <<"Price is $1820\n";} }
+			      else if (compchoice1 == 3){
+			          if(compchoice1 == 1)
+			      { cout<<"Price is $2800\n";}
+			      else if(compchoice1 == 2)
+			      { cout<<"Price is $2700\n";}
+			      else if(compchoice1 == 3)
+			      { cout<<"Price is $4750\n";}
+			      else if(compchoice1 == 4)
+			      { cout<<"Price is $1600\n";}
+			      else if(compchoice1 == 5)
+			      { cout<<"Price is $5780\n";}
+			      else if(compchoice1 == 6)
+			      { cout<<"Price is $4900\n";}
+			      else if(compchoice1 == 7)
+			      { cout<<"Price is $3850\n";}
+			      else if(compchoice1 == 8)
+			      { cout<<"Price is $2999\n";}
+			      else if(compchoice1 == 9)
+			      { cout<<"Price is $1950\n";}
+			      else{cout <<"Price is $2820\n";}
+			          }
+			      else{
+			          if(compchoice1 == 1)
+			      { cout<<"Price is $2800\n";}
+			      else if(compchoice1 == 2)
+			      { cout<<"Price is $3700\n";}
+			      else if(compchoice1 == 3)
+			      { cout<<"Price is $1750\n";}
+			      else if(compchoice1 == 4)
+			      { cout<<"Price is $4600\n";}
+			      else if(compchoice1 == 5)
+			      { cout<<"Price is $2780\n";}
+			      else if(compchoice1 == 6)
+			      { cout<<"Price is $6900\n";}
+			      else if(compchoice1 == 7)
+			      { cout<<"Price is $2850\n";}
+			      else if(compchoice1 == 8)
+			      { cout<<"Price is $4999\n";}
+			      else if(compchoice1 == 9)
+			      { cout<<"Price is $2950\n";}
+			      else{cout <<"Price is $1820\n";}
+			          }         
+			cout<<"Thanks for shopping with us\n";
+			while(choice4 == 2)
+			{
+			    cout << "So what kind of gaming pc are you looking for\n";
+			cout << "Do you want to be specific about company\n";
+			cout << "1 for Dell/Alienware | 2 for HP | 3 for Apple | 4 for Lenovo | Have something different in mind, Type in\n";
+			cin >> choice3;
+			if (choice3 == 1)
+			{ cout <<" option1 || option 2 || option 3 || option 4 || option 5 || option 6 || option 7 || option 8 || option 9 || option 10 \n";
+			    cout <<"Made your mind\n";
+			    cin >> compchoice1;
+			}
+			else if (choice3 == 2)
+			{
+			    cout <<" option1 || option 2 || option 3 || option 4 || option 5 || option 6 || option 7 || option 8 || option 9 || option 10 \n";
+			    cout <<"Made your mind\n";
+			    cin >> compchoice1;
+			}
+			else if (choice3 == 3)
+			{
+			    cout <<" option1 || option 2 || option 3 || option 4 || option 5 || option 6 || option 7 || option 8 || option 9 || option 10 \n";
+			    cout <<"Made your mind\n";
+			    cin >> compchoice1;
+			}
+			else if (choice3 == 4)
+			{
+			    cout <<" option1 || option 2 || option 3 || option 4 || option 5 || option 6 || option 7 || option 8 || option 9 || option 10 \n";
+			    cout <<"Made your mind\n";
+			    cin >> compchoice1;
+			}
+			else 
+			{ cout << " Please contact us for other specifications\n";  }
+			
+        	cout <<" Press 1 to checkout | 2 to go back\n";
+			cin >> choice4;
+			cout <<"You choose " << compchoice1 << endl;
+			if (choice3 == 1)
+			  { 
+			      if(compchoice1 == 1)
+			      { cout<<"Price is $1800\n";}
+			      else if(compchoice1 == 2)
+			      { cout<<"Price is $2700\n";}
+			      else if(compchoice1 == 3)
+			      { cout<<"Price is $3750\n";}
+			      else if(compchoice1 == 4)
+			      { cout<<"Price is $1600\n";}
+			      else if(compchoice1 == 5)
+			      { cout<<"Price is $4780\n";}
+			      else if(compchoice1 == 6)
+			      { cout<<"Price is $5900\n";}
+			      else if(compchoice1 == 7)
+			      { cout<<"Price is $2850\n";}
+			      else if(compchoice1 == 8)
+			      { cout<<"Price is $2999\n";}
+			      else if(compchoice1 == 9)
+			      { cout<<"Price is $1950\n";}
+			      else{cout <<"Price is $3820\n";}
+			  }
+			  else if(choice3 == 2 )
+			  {if(compchoice1 == 1)
+			      { cout<<"Price is $3800\n";}
+			      else if(compchoice1 == 2)
+			      { cout<<"Price is $2700\n";}
+			      else if(compchoice1 == 3)
+			      { cout<<"Price is $1750\n";}
+			      else if(compchoice1 == 4)
+			      { cout<<"Price is $5600\n";}
+			      else if(compchoice1 == 5)
+			      { cout<<"Price is $4780\n";}
+			      else if(compchoice1 == 6)
+			      { cout<<"Price is $2900\n";}
+			      else if(compchoice1 == 7)
+			      { cout<<"Price is $4850\n";}
+			      else if(compchoice1 == 8)
+			      { cout<<"Price is $999\n";}
+			      else if(compchoice1 == 9)
+			      { cout<<"Price is $1950\n";}
+			      else{cout <<"Price is $1820\n";} }
+			      else if (compchoice1 == 3){
+			          if(compchoice1 == 1)
+			      { cout<<"Price is $2800\n";}
+			      else if(compchoice1 == 2)
+			      { cout<<"Price is $2700\n";}
+			      else if(compchoice1 == 3)
+			      { cout<<"Price is $4750\n";}
+			      else if(compchoice1 == 4)
+			      { cout<<"Price is $1600\n";}
+			      else if(compchoice1 == 5)
+			      { cout<<"Price is $5780\n";}
+			      else if(compchoice1 == 6)
+			      { cout<<"Price is $4900\n";}
+			      else if(compchoice1 == 7)
+			      { cout<<"Price is $3850\n";}
+			      else if(compchoice1 == 8)
+			      { cout<<"Price is $2999\n";}
+			      else if(compchoice1 == 9)
+			      { cout<<"Price is $1950\n";}
+			      else{cout <<"Price is $2820\n";}
+			          }
+			      else{
+			          if(compchoice1 == 1)
+			      { cout<<"Price is $2800\n";}
+			      else if(compchoice1 == 2)
+			      { cout<<"Price is $3700\n";}
+			      else if(compchoice1 == 3)
+			      { cout<<"Price is $1750\n";}
+			      else if(compchoice1 == 4)
+			      { cout<<"Price is $4600\n";}
+			      else if(compchoice1 == 5)
+			      { cout<<"Price is $2780\n";}
+			      else if(compchoice1 == 6)
+			      { cout<<"Price is $6900\n";}
+			      else if(compchoice1 == 7)
+			      { cout<<"Price is $2850\n";}
+			      else if(compchoice1 == 8)
+			      { cout<<"Price is $4999\n";}
+			      else if(compchoice1 == 9)
+			      { cout<<"Price is $2950\n";}
+			      else{cout <<"Price is $1820\n";}
+			          }         
+			cout<<"Thanks for shopping with us\n";
+			cout <<"Thanks for shopping with us\n";    
+			}
+			
+		}
+	
+	
+	}
+	else
+    {
+		cout <<"How may We help you\n";
+		cout <<"Press 1 to contact customer service | 2 to know more about us\n";
+		
+		if(last == 2)
+		{ cout <<" We are NewGen consultants\n"; }
+    }
+
+}
